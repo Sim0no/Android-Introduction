@@ -38,6 +38,7 @@ si necesita instalar algunos de los servicios mencionados puede encontrarlos aqu
 ## Authors
 
 * **Juan Carlos García** - *Initial work* - [IJuanchoG](https://github.com/IJuanchoG)
+* **Simón Marin Mejía** - *Initial work* - [Sim0no](https://github.com/Sim0no)
 
 
 ## License
